@@ -1,6 +1,6 @@
 go, cpp, python, ml and web dev
-
-<a href="https://nyxox.dev/" target="_blank" rel="noopener noreferrer">portfolio</a>
+    
+[portfolio](https://nyxox.dev/)
 <!--
 ### 🌑 Nyxox-debug
 
